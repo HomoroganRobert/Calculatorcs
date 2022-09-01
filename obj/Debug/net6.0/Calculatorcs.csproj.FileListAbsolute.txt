@@ -1,0 +1,15 @@
+/Users/roberthomorogan/Documents/GitHub/Calculatorcs/bin/Debug/net6.0/Calculatorcs
+/Users/roberthomorogan/Documents/GitHub/Calculatorcs/bin/Debug/net6.0/Calculatorcs.deps.json
+/Users/roberthomorogan/Documents/GitHub/Calculatorcs/bin/Debug/net6.0/Calculatorcs.runtimeconfig.json
+/Users/roberthomorogan/Documents/GitHub/Calculatorcs/bin/Debug/net6.0/Calculatorcs.dll
+/Users/roberthomorogan/Documents/GitHub/Calculatorcs/bin/Debug/net6.0/Calculatorcs.pdb
+/Users/roberthomorogan/Documents/GitHub/Calculatorcs/obj/Debug/net6.0/Calculatorcs.csproj.AssemblyReference.cache
+/Users/roberthomorogan/Documents/GitHub/Calculatorcs/obj/Debug/net6.0/Calculatorcs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roberthomorogan/Documents/GitHub/Calculatorcs/obj/Debug/net6.0/Calculatorcs.AssemblyInfoInputs.cache
+/Users/roberthomorogan/Documents/GitHub/Calculatorcs/obj/Debug/net6.0/Calculatorcs.AssemblyInfo.cs
+/Users/roberthomorogan/Documents/GitHub/Calculatorcs/obj/Debug/net6.0/Calculatorcs.csproj.CoreCompileInputs.cache
+/Users/roberthomorogan/Documents/GitHub/Calculatorcs/obj/Debug/net6.0/Calculatorcs.dll
+/Users/roberthomorogan/Documents/GitHub/Calculatorcs/obj/Debug/net6.0/refint/Calculatorcs.dll
+/Users/roberthomorogan/Documents/GitHub/Calculatorcs/obj/Debug/net6.0/Calculatorcs.pdb
+/Users/roberthomorogan/Documents/GitHub/Calculatorcs/obj/Debug/net6.0/Calculatorcs.genruntimeconfig.cache
+/Users/roberthomorogan/Documents/GitHub/Calculatorcs/obj/Debug/net6.0/ref/Calculatorcs.dll
